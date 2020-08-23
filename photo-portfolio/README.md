@@ -1,9 +1,16 @@
+<<<<<<< HEAD:photo-portfolio/README.md
 Test changes direclty on GitHub
 
 adding more details on Visual code and push to github
 
 changes using sincronization
 
+=======
+
+# Photo Portfolio
+
+> A simple project to teach my students in a course on Udemy.
+>>>>>>> 889d665ca2926f3ed9ad6e7891716d4196a0c4cc:photo-portfolio/README.txt
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
